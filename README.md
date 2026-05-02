@@ -1,2 +1,2 @@
-# Mi prer README
+# Mi primer README
 Primer repositorio en GitHub para el curso de freeCodeCamp
